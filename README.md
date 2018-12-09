@@ -6,53 +6,49 @@ datanin linkini kolaylik olsun diye veriyorum
 https://drive.google.com/open?id=1ad_Mnv0gIKdR5qerIDo9JRniyadT49yX
 
 https://github.com/colmap/colmap
-About
-COLMAP is a general-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. It offers a wide range of features for reconstruction of ordered and unordered image collections. The software is licensed under the new BSD license. If you use this project for your research, please cite:
+### About
+Novice-Ebru Dataset is ..... The software is licensed under the new BSD license. If you use this dataset for your research, please cite:
 
+===========citation bibtex============
 @inproceedings{schoenberger2016sfm,
     author={Sch\"{o}nberger, Johannes Lutz and Frahm, Jan-Michael},
     title={Structure-from-Motion Revisited},
     booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
     year={2016},
 }
+====================================
 
-@inproceedings{schoenberger2016mvs,
-    author={Sch\"{o}nberger, Johannes Lutz and Zheng, Enliang and Pollefeys, Marc and Frahm, Jan-Michael},
-    title={Pixelwise View Selection for Unstructured Multi-View Stereo},
-    booktitle={European Conference on Computer Vision (ECCV)},
-    year={2016},
-}
-If you use the image retrieval / vocabulary tree engine, please also cite:
 
-@inproceedings{schoenberger2016vote,
-    author={Sch\"{o}nberger, Johannes Lutz and Price, True and Sattler, Torsten and Frahm, Jan-Michael and Pollefeys, Marc},
-    title={A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval},
-    booktitle={Asian Conference on Computer Vision (ACCV)},
-    year={2016},
-}
-The latest source code is available at https://github.com/colmap/colmap. COLMAP builds on top of existing works and when using specific algorithms within COLMAP, please also cite the original authors, as specified in the source code.
+The paper is available on  (Paper link)
+
+The dataset is available on (Dataset Link)
+
 
 Download
 Executables for Windows and Mac and other resources can be downloaded from https://demuc.de/colmap/. Executables for Linux/Unix/BSD are available at https://repology.org/metapackage/colmap/versions. To build COLMAP from source, please see https://colmap.github.io/install.html.
 
-Getting Started
-Download the pre-built binaries from https://demuc.de/colmap/ or build the library manually as described in the documentation.
-Download one of the provided datasets at https://demuc.de/colmap/datasets/ or use your own images.
-Use the automatic reconstruction to easily build models with a single click or command.
-Watch the short introductory video at https://www.youtube.com/watch?v=P-EC0DzeVEU or read the tutorial in the documentation at https://colmap.github.io/ for more details.
-Documentation
-The documentation is available at https://colmap.github.io/.
+### Getting Started
 
-Support
-Please, use the COLMAP Google Group at https://groups.google.com/forum/#!forum/colmap (colmap@googlegroups.com) for questions and the GitHub issue tracker at https://github.com/colmap/colmap for bug reports, feature requests/additions, etc.
+After installing anaconda create  environment used in this project using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. 
+This project is created using NVIDIA 1080 GPU, Anaconda 3.6 and Pytorch. 
+Please refer to [Pytorch](https://pytorch.org/)  website to setup your environment GPU only.
 
-Acknowledgments
-The library was written by Johannes L. Schönberger (https://demuc.de/). Funding was provided by his PhD advisors Jan-Michael Frahm (http://frahm.web.unc.edu/) and Marc Pollefeys (https://www.inf.ethz.ch/personal/marc.pollefeys/).
 
-Contribution
+
+### Support
+Please, use this place to get support (Some google group or email)  for questions and the GitHub issue tracker at (github link of the repo github.com/colmap/colmap ) for bug reports, feature requests/additions, etc.
+
+### Acknowledgments
+
+The Ebrus was created and  the code was written by Aysin Tasdelen (code owner profile link). Funding was provided by Deep Art project manager  Proffessor Sebnem Ozdemir (Sebnem hoca's profile link) and other acknowledgements and .......
+
+### Contribution
 Contributions (bug reports, bug fixes, improvements, etc.) are very welcome and should be submitted in the form of new issues and/or pull requests on GitHub.
 
-License
+###License
+
+The dataset is licenced uder this licence. The code is licenced under this licence etc etc..
+
 The COLMAP library is licensed under the new BSD license. Note that this text refers only to the license for COLMAP itself, independent of its optional dependencies, which are separately licensed. Building COLMAP with these optional dependencies may affect the resulting COLMAP license.
 
 Copyright (c) 2018, ETH Zurich and UNC Chapel Hill.
@@ -62,15 +58,15 @@ Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
     * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
+      notice, this list of conditions and the following disclaimer. (condition1)
 
     * Redistributions in binary form must reproduce the above copyright
       notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
+      documentation and/or other materials provided with the distribution. (condition 2)
 
     * Neither the name of ETH Zurich and UNC Chapel Hill nor the names of
       its contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission.
+      from this software without specific prior written permission. (condition 3)
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -84,4 +80,4 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-Author: Johannes L. Schoenberger (jsch-at-demuc-dot-de)
+Author: Aysin Tasdelen (aysin dot tasdelen at alumni dot boun dot edu dot tr)
