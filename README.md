@@ -1,5 +1,5 @@
 # Ebru-Dataset
-
+![Display_Image](targets/85.jpg  "di")
 Asagidaki repo citation contribution lisans ve kullanim detaylarini vermis ona gore yapabiliriz. 
 
 datanin linkini kolaylik olsun diye veriyorum 
@@ -10,12 +10,7 @@ https://github.com/colmap/colmap
 Novice-Ebru Dataset is ..... The software is licensed under the new BSD license. If you use this dataset for your research, please cite:
 
 ===========citation bibtex============
-@inproceedings{schoenberger2016sfm,
-    author={Sch\"{o}nberger, Johannes Lutz and Frahm, Jan-Michael},
-    title={Structure-from-Motion Revisited},
-    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2016},
-}
+citation will go here
 ====================================
 
 
@@ -47,37 +42,7 @@ Contributions (bug reports, bug fixes, improvements, etc.) are very welcome and 
 
 ###License
 
-The dataset is licenced uder this licence. The code is licenced under this licence etc etc..
+Licence details
 
-The COLMAP library is licensed under the new BSD license. Note that this text refers only to the license for COLMAP itself, independent of its optional dependencies, which are separately licensed. Building COLMAP with these optional dependencies may affect the resulting COLMAP license.
-
-Copyright (c) 2018, ETH Zurich and UNC Chapel Hill.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer. (condition1)
-
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution. (condition 2)
-
-    * Neither the name of ETH Zurich and UNC Chapel Hill nor the names of
-      its contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission. (condition 3)
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE.
 
 Author: Aysin Tasdelen (aysin dot tasdelen at alumni dot boun dot edu dot tr)
