@@ -1,6 +1,6 @@
 # Ebru-Dataset
 
-<img src="targets/85.jpg" data-canonical-src="targets/85.jpg" width="%100" height="%100"  align="center" />
+<img src="imgs/display.jpg" data-canonical-src="imgs/display.jpg" width="%100" height="%100"  align="center" />
 
 Asagidaki repo citation contribution lisans ve kullanim detaylarini vermis ona gore yapabiliriz. 
 
