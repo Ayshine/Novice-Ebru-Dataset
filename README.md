@@ -1,5 +1,7 @@
 # Ebru-Dataset
-![Display_Image](targets/85.jpg  "di")
+
+<img src="targets/85.jpg" data-canonical-src="targets/85.jpg" width="%100" height="%100"  align="center" />
+
 Asagidaki repo citation contribution lisans ve kullanim detaylarini vermis ona gore yapabiliriz. 
 
 datanin linkini kolaylik olsun diye veriyorum 
