@@ -1,50 +1,46 @@
-# Ebru-Dataset
+# *Turkish-Ottoman Style Transfer Research: Deep Novice Ebru Dataset*
+Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu ve Şebnem Özdemir
 
-<img src="imgs/display.jpg" data-canonical-src="imgs/display.jpg" width="%100" height="%100"  align="center" />
+## Introduction
+This repo provides Deep Novice Ebru Dataset for paper - Neural artistic style transfer for Turkish-Ottoman Art Genre. 
 
-Asagidaki repo citation contribution lisans ve kullanim detaylarini vermis ona gore yapabiliriz. 
+**DEEP NOVICE EBRU Dateset** contains 250 different Ebru art samples based on five well-known styles with their distinct attributes:
 
-datanin linkini kolaylik olsun diye veriyorum 
-https://drive.google.com/open?id=1ad_Mnv0gIKdR5qerIDo9JRniyadT49yX
+* **a) Battal Ebru :** In literature, Battal means brave, hero, very big while it is the foundation of all other styles of Ebru. Thus, it is the most important Ebru style. The Ebru artist does not intervene after all the paint scattered from the brush for the first time.
 
-https://github.com/colmap/colmap
-### About
-Novice-Ebru Dataset is ..... The software is licensed under the new BSD license. If you use this dataset for your research, please cite:
+* **b) Gel-Git Ebru :** Gel-git is formed with a bız (a pointing metal tool) drawing lines from left to right and up and down on a Battal ebru. Gel-git is the first style is made using bız .
 
-===========citation bibtex============
-citation will go here
-====================================
+* **c) Taraklı Ebru :** Vertical or Horizontal Gel-Git ebru is combed in the the other direction with an ebru comb is called Taraklı (Combed) Ebru.
 
+* **d) İstiridye Ebru :** İstiridye (seashell) ebru is a special kind of Tarakli Ebru which has two rows of teeth instead of one.
 
-The paper is available on  (Paper link)
+* **e) İspanyol  Ebru :** The wavy shape of Ispanyol (Spanish) ebru comes from the tecnique used when ebru is transferring to the paper.The paper is moved left and right  up and down when laying the paper on the water and picking it up from the water.
 
-The dataset is available on (Dataset Link)
+<img src="imgs/ebru_samples.png" data-canonical-src="imgs/ebru_samples.png" width="%100" align="center" />
 
+## Examples
+Example as a result of the transfer of "İspanyol Ebru" artistic style
+<img src="imgs/ebru_sample_style_transfer_ispanyol.png" data-canonical-src="imgs/ebru_sample_style_transfer_ispanyol.png" width="%100" align="center" />
 
-Download
-Executables for Windows and Mac and other resources can be downloaded from https://demuc.de/colmap/. Executables for Linux/Unix/BSD are available at https://repology.org/metapackage/colmap/versions. To build COLMAP from source, please see https://colmap.github.io/install.html.
+Example as a result of the transfer of "Gel-Git Ebru" artistic style
+<img src="imgs/ebru_sample_style_transfer_gelgit.png" data-canonical-src="imgs/ebru_sample_style_transfer_gelgit.png" width="%100" align="center" />
 
-### Getting Started
-
+## Getting Started
 After installing anaconda create  environment used in this project using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. 
 This project is created using NVIDIA 1080 GPU, Anaconda 3.6 and Pytorch. 
 Please refer to [Pytorch](https://pytorch.org/)  website to setup your environment GPU only.
 
+## Downloading Novice Ebru Dateset
+Our dataset can be downloaded at [GoogleDrive](#)
 
-
-### Support
-Please, use this place to get support (Some google group or email)  for questions and the GitHub issue tracker at (github link of the repo github.com/colmap/colmap ) for bug reports, feature requests/additions, etc.
-
-### Acknowledgments
-
-The Ebrus was created and  the code was written by Aysin Tasdelen (code owner profile link). Funding was provided by Deep Art project manager  Proffessor Sebnem Ozdemir (Sebnem hoca's profile link) and other acknowledgements and .......
-
-### Contribution
-Contributions (bug reports, bug fixes, improvements, etc.) are very welcome and should be submitted in the form of new issues and/or pull requests on GitHub.
-
-###License
-
-Licence details
-
-
-Author: Aysin Tasdelen (aysin dot tasdelen at alumni dot boun dot edu dot tr)
+## Citing our work and Deep Novice Ebru Dateset
+```
+@inproceedings{Turkish-Ottoman Style Transfer Research: Deep Novice Ebru Dataset,
+    Author = {Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu, Şebnem Özdemir},
+    Title = {Triggering Diversity of Artificial Intelligence Based Art Research by using Turkish-Ottoman Art Genre},
+    Conference = {DATASCI},
+    Year = {2018}
+}
+```
+## License
+...
