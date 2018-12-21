@@ -21,7 +21,8 @@ Our dataset can be downloaded at [GoogleDrive](#)
 ```
 @inproceedings{Turkish-Ottoman Style Transfer Research: Deep Novice Ebru Dataset,
     Author = {Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu, Şebnem Özdemir},
-    Title = {Triggering Diversity of Artificial Intelligence Based Art Research by using Turkish-Ottoman Art Genre},
+    Title = {Triggering Diversity of Artificial Intelligence Based Art Research by 
+    using Turkish-Ottoman Art Genre},
     Conference = {DATASCI},
     Year = {2018}
 }
