@@ -1,21 +1,24 @@
-# *Turkish-Ottoman Style Transfer Research: Deep Novice Ebru Dataset*
+# Style Transfer: Novice Ebru Dataset
 Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu ve Şebnem Özdemir
 
 ![display](imgs/display.jpg  "display")
 ## Introduction
-This repo provides Deep Novice Ebru Dataset for paper - Neural artistic style transfer for Turkish-Ottoman Art Genre. 
+This repository provides style transfer example on  **Novice Ebru Dataset (NED)** from paper Turkish-Ottoman Style Transfer Research: Novice Ebru Dataset
 
-**DEEP NOVICE EBRU Dateset** contains 250 different Ebru art samples based on five well-known styles with their distinct attributes:
+**NED** contains 250 different Ebru art samples based on five well-known styles with their distinct attributes.
 
 
 
 ## Getting Started
-After installing anaconda create  environment used in this project using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. 
-This project is created using NVIDIA 1080 GPU, Anaconda 3.6 and Pytorch. 
-Please refer to [Pytorch](https://pytorch.org/)  website to setup your environment GPU only.
+
+- install [anaconda](https://www.anaconda.com/download/) or [miniconda](https://conda.io/miniconda.html) 
+- create conda environment using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. ```conda env create --file=ebru-dataset.yaml```
+- activate conda environment `source activate ebru`(linux)`activate ebru`(windows)
+
+Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. In order to use CPU only version of pytorch please refer to  [Pytorch](https://pytorch.org/)  website to setup your environment CPU only version.
 
 ## Downloading Novice Ebru Dateset
-Our dataset can be downloaded at [GoogleDrive](#)
+Our dataset can be downloaded from [GoogleDrive](#)
 
 ## Citing  Deep Novice Ebru Dateset
 ```
