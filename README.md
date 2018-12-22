@@ -1,9 +1,9 @@
 # Style Transfer: Novice Ebru Dataset
-Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu ve Şebnem Özdemir
+
 
 ![display](imgs/display.jpg  "display")
 ## Introduction
-This repository provides style transfer example on  **Novice Ebru Dataset (NED)** from paper Turkish-Ottoman Style Transfer Research: Novice Ebru Dataset
+This repository provides style transfer example on  **Novice Ebru Dataset (NED)** from paper Turkish-Ottoman Style Transfer Research: Novice Ebru Dataset (Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu ve Şebnem Özdemir)
 
 **NED** contains 250 different Ebru art samples based on five well-known styles with their distinct attributes.
 
