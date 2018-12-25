@@ -19,6 +19,7 @@ Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. In
 
 ## Downloading Novice Ebru Dateset
 Our dataset can be downloaded from [GoogleDrive](#)
+After Downloading data create a folder named EBRU under the project folder.
 
 ## Citing  Deep Novice Ebru Dateset
 ```
