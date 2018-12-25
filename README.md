@@ -12,10 +12,11 @@ This repository provides style transfer example on  **Novice Ebru Dataset (NED)*
 ## Getting Started
 
 - install [anaconda](https://www.anaconda.com/download/) or [miniconda](https://conda.io/miniconda.html) 
+- clone project repository `git clone https://github.com/Ayshine/Novice-Ebru-Dataset.git`
 - create conda environment using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. ```conda env create --file=ebru-dataset.yaml```
 - activate conda environment `source activate ebru`(linux)`activate ebru`(windows)
 
-Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. In order to use CPU only version of pytorch please refer to  [Pytorch](https://pytorch.org/)  website to setup your environment CPU only version.
+Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. Thus, yaml file provided contains GPU version of Pytorch. In order to use CPU only version of pytorch please refer to  [Pytorch](https://pytorch.org/)  website to setup your environment CPU only version.
 
 ## Downloading Novice Ebru Dateset
 Our dataset can be downloaded from [GoogleDrive](#)
