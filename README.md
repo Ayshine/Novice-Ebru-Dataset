@@ -22,7 +22,7 @@ Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. Th
 Our dataset can be downloaded from [GoogleDrive](#)
 After Downloading data create a folder named EBRU under the project folder.
 
-## Citing  Deep Novice Ebru Dateset
+## Citing Relevant Paper - Triggering Diversity of Artificial Intelligence Based Art Research by using Turkish-Ottoman Art Genre
 ```
 @inproceedings{Turkish-Ottoman Style Transfer Research: Deep Novice Ebru Dataset,
     Author = {Ayşin Taşdelen, Eren Bozarık, Can Umay, Yavuz Kömeçoğlu, Şebnem Özdemir},
