@@ -16,7 +16,7 @@ This repository provides style transfer example on  **Novice Ebru Dataset (NED)*
 - create conda environment using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. ```conda env create --file=ebru-dataset.yaml```
 - activate conda environment `source activate ebru`(linux)`activate ebru`(windows)
 
-Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. Thus, yaml file provided contains GPU version of Pytorch. In order to use CPU only version of pytorch please refer to  [Pytorch](https://pytorch.org/)  website to setup your environment CPU only version.
+Note: This project created using NVDIA 1080 GPU and Anaconda 3.6 environment. Thus, yaml file provided contains GPU version of Pytorch. In order to use CPU only version of pytorch please refer to  [Pytorch](https://pytorch.org/)  website to setup your environment CPU only version. The code in this repository is a version of Udacity's [Intro to Deep Learning with Pytorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) program's style transfer section repository.
 
 ## Downloading Novice Ebru Dateset
 Our dataset can be downloaded from [GoogleDrive](#)
