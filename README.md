@@ -1,4 +1,4 @@
-# Style Transfer: Novice Ebru Dataset
+#  Novice Ebru Dataset: Style Transfer Example
 
 
 ![display](imgs/display.jpg  "display")
