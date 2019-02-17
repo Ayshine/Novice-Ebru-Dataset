@@ -13,6 +13,7 @@ This repository provides style transfer example on  **Novice Ebru Dataset (NED)*
 
 - install [anaconda](https://www.anaconda.com/download/) or [miniconda](https://conda.io/miniconda.html) 
 - clone project repository `git clone https://github.com/Ayshine/Novice-Ebru-Dataset.git`
+- change directory into the project files `cd Novice-Ebru-Dataset`
 - create conda environment using [Ebru Dataset Yaml](/ebru-dataset.yaml)   file. ```conda env create --file=ebru-dataset.yaml```
 - activate conda environment `source activate ebru`(linux)`activate ebru`(windows)
 
